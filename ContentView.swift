@@ -22,7 +22,7 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             VStack {
-                Text("\nProjeto Erbs")
+                Text("\nProjeto Cadastro")
                     .font(.largeTitle)
                     .padding()
 
